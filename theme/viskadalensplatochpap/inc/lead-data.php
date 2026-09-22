@@ -18,7 +18,6 @@ return array(
 		array( 'Mycket fin service och glatt bemötande', 'Ingemar Hallberg', 'för 9 år sedan' ),
 		array( 'Service på högsta nivå.', 'Beredskap Swemaint', 'för 4 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
+	'bild_hero'      => 'foto-4.jpg',
 	'ar_riktig'      => true,
 );
