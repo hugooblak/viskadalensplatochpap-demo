@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Viskadalens Plåt och Papptak AB',
+	'bransch'        => 'Plåtentreprenör',
 	'telefon'        => '073-539 66 39',
 	'telefon_tel'    => '+46735396639',
 	'ort'            => 'Horred',
